@@ -2,7 +2,7 @@
 
 A modern **Crypto Price Tracking web application** built with **Next.js** that helps users track real‑time cryptocurrency prices, market trends, and key statistics using public APIs.
 
-This project is intentionally designed as a **learning-first project** to break out of tutorial hell and gain hands‑on experience with:
+This project is intentionally designed to focus on:
 
 * API consumption
 * Async data handling
@@ -35,8 +35,8 @@ No authentication. No database. Just **pure fundamentals done right**.
 ## 🛠 Tech Stack
 
 * **Framework:** Next.js (App Router)
-* **Language:** JavaScript / TypeScript
-* **Styling:** CSS / Tailwind (mention what you use)
+* **Language:** JavaScript
+* **Styling:** CSS / Tailwind
 * **API:** CoinGecko Public API
 * **Charts:** Chart.js / Recharts
 * **Deployment:** Vercel
